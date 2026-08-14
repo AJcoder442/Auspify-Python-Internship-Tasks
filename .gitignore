@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+.agents/
+.gemini/
+*.log
+
+# Databases and configuration files
+config.json
+tasks.json
+expenses.db
+*.zip
+*.db
